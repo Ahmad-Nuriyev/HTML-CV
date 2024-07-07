@@ -1,0 +1,72 @@
+a {
+    text-decoration: none;
+}
+
+/* this is the first section of CV */
+.heading {
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(26, 217, 217);
+    color: black;
+    margin: auto;
+    width: 50%;
+    border: 1px dotted white;
+    display: flex;
+    flex-direction: column;
+}
+
+hr {
+    margin: 0;
+}
+
+.number {
+    margin: 0;
+    padding-top: 10px;
+}
+
+.email {
+    margin: 0;
+    padding-top: 10px;
+    padding-bottom: 3px;
+}
+
+.image {
+    border-radius: 50%;
+}
+
+.first-heading {
+    letter-spacing: 4px;
+    font-family: "Anton SC", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    margin: 0%;
+    border-bottom: 5px solid #000;
+}
+
+
+/* Style of "About me" section */
+
+.about-me {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.summary {
+    margin: 0;
+    font-weight: 500;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: italic;
+    line-height: 18px;
+    align-items: center;
+    text-align: center;
+}
+
+.heading2{
+    font-style: none;
+    font-size: 25px;
+    border-bottom: 5px dotted red;
+}
