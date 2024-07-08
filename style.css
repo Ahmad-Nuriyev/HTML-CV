@@ -70,3 +70,17 @@ hr {
     font-size: 25px;
     border-bottom: 5px dotted red;
 }
+
+
+/* This is "Education" setting */
+
+.education-heading{
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.education-p{
+    text-align: center;
+}
